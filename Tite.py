@@ -1,2 +1,3 @@
-# TITE
-print
+# This program prints Hello, world!
+
+print('Hello, world!')
